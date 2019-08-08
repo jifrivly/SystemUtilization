@@ -1,0 +1,10 @@
+{
+    "data":{
+        "currentCpu":"% value",
+        "totalRam":"double value (byte / KB / MB / GB)",
+        "usedRam":"double value (byte / KB / MB / GB)",
+        "totalStorage":"long value (byte / KB / MB / GB)",
+        "freeSpace":"long value (byte / KB / MB / GB)",
+        "rateOfWriting":"long value (byte / KB / MB / GB)"
+    }
+}
