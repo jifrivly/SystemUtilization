@@ -8,3 +8,13 @@
         "rateOfWriting":"long value (byte / KB / MB / GB)"
     }
 }
+
+{
+   "currentCpu":0.237463847327,
+   "totalRam":11.619083404541016,
+   "usedRam":10.879947662353516,
+   "totalStorage":479.35162353515625,
+   "freeSpace":463.3506546020508,
+   "rateOfWriting":35.06546020508
+}
+         
